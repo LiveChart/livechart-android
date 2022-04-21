@@ -1,6 +1,6 @@
 # LiveChart.me for Android
 
-[![Google Play Download Button](google-play-badge.png)](https://play.google.com/store/apps/details?id=me.livechart.android)
+[<img src="https://raw.githubusercontent.com/LiveChart/livechart-android/master/google-play-badge.png" width="250" alt="Google Play Download Button">](https://play.google.com/store/apps/details?id=me.livechart.android)
 
 *Google Play and the Google Play logo are trademarks of Google LLC.*
 
