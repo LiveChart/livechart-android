@@ -8,21 +8,21 @@ Whether you're looking to browse seasonal anime or just checking today's lineup,
 
 Features include:
 
-• Browse anime by season
-• Countdowns to upcoming episodes
-• Learn when anime air, adjusted for your time zone
-• Search anime by title
-• Relevant links for each anime, including links to legal streaming
-• Sort anime by air date, countdown, popularity and more
-• Recent anime headlines–anime news from many different sources curated by the LiveChart.me team to be readily available with simple and straightforward titles
-• Community ratings based on ratings submitted by other LiveChart.me users
+* Browse anime by season
+* Countdowns to upcoming episodes
+* Learn when anime air, adjusted for your time zone
+* Search anime by title
+* Relevant links for each anime, including links to legal streaming
+* Sort anime by air date, countdown, popularity and more
+* Recent anime headlines–anime news from many different sources curated by the LiveChart.me team to be readily available with simple and straightforward titles
+* Community ratings based on ratings submitted by other LiveChart.me users
 
 ...and with your free LiveChart.me account:
 
-• Mark individual anime as 'completed', 'watching', 'considering', or 'skipping' to easily to remember which shows you are and aren't interested in
-• Receive push notifications when anime you've marked as 'watching' or 'considering' will air soon or aired recently
-• Optionally hide anime you've marked as 'skipping'
-• Rate anime you've watched
+* Mark individual anime as 'completed', 'watching', 'considering', or 'skipping' to easily to remember which shows you are and aren't interested in
+* Receive push notifications when anime you've marked as 'watching' or 'considering' will air soon or aired recently
+* Optionally hide anime you've marked as 'skipping'
+* Rate anime you've watched
 
 ###### Links
 
